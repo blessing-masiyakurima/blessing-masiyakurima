@@ -6,8 +6,8 @@
   - Beginner-friendly open-source projects using Python or R
   - Data cleaning, model training, or interpreting model results
 - 🛠️ Tools & Technologies:
-  - Languages: Python, R, SQL, HTML/CSS
-  - Tools: Excel, Jupyter, RStudio, Git, VS Code
+  - Languages: Python, R, SQL
+  - Tools: Excel, Jupyter, RStudio, VS Code
   - Libraries: pandas, matplotlib, scikit-learn, tidyverse
   - Platforms: GitHub, Google Colab, Tableau, Excel
 - 📫 How to reach me :
